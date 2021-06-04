@@ -1,1 +1,1 @@
-# uptime-api
+# Uptime API
